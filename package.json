@@ -1,0 +1,23 @@
+{
+  "name": "memoize-me",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "redis": "^2.6.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chaz-C/memoize-me.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chaz-C/memoize-me/issues"
+  },
+  "homepage": "https://github.com/Chaz-C/memoize-me#readme"
+}
